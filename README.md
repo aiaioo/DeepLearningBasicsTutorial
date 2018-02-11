@@ -1,9 +1,7 @@
 # Doer's Deep Learning Course.
 
-Learn the basics of deep learning by working through a series of Pytorch exercises.
+I assume that you like me don't enjoy having to stare at equations on a blackboard, that you would rather be working through exercises that help you understand a subject.
 
-I assume that you don't wish to be shown a slew of equations on a blackboard, that you would rather be working through exercises that help you understand the subject.
-
-These exercises use toy problems to walk you through the basics.
+These exercises use toy problems to walk you through the basics of deep learning.
 
 Hopefully, in doing these exercises and observing how various algorithms work on the toy problems, you'll also come to understand the subject a lot better than you would from a book.
