@@ -1,4 +1,4 @@
-# Doer's Deep Learning Course.
+# The Doer's Deep Learning Course
 
 I assume that you like me don't enjoy having to stare at equations on a blackboard, that you would rather be working through exercises that help you understand a subject.
 
