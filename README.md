@@ -1,8 +1,9 @@
-# Deep Learning through Pytorch Exercises
+# Doer's Deep Learning Course.
 
-Learn the basics of deep learning by working through a series of exercises using the Pytorch framework for deep learning.
+Learn the basics of deep learning by working through a series of Pytorch exercises.
 
-It is possible to gain a better understanding of deep learning theory by working through a series of simple exercises.
-The exercises use a number of toy datasets to demonstrate the capabilities of various kinds of deep learning models for supervised learning.
+I assume that you don't wish to be shown a slew of equations on a blackboard, that you would rather be working through exercises that help you understand the subject.
 
-The exercises are written in Python and use the Pytorch framework for deep learning.
+These exercises use toy problems to walk you through the basics.
+
+Hopefully, in doing these exercises and observing how various algorithms work on the toy problems, you'll also come to understand the subject a lot better than you would from a book.
