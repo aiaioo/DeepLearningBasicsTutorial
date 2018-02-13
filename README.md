@@ -10,7 +10,7 @@ If you have git installed, download all the exercises by issuing the following c
 
 *git clone https://github.com/aiaioo/DeepLearningBasicsTutorial/*
 
-If you do not have git installed, just grab the slides DeepLearningBasics.pptx.
+If you do not have git installed, just grab the slides **DeepLearningBasics.pptx**.
 
 You will be able to commence learning about deep learning immediately.
 
