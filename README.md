@@ -6,7 +6,7 @@ These exercises use toy problems to walk you through the basics of deep learning
 
 # Teachers' Tips and Notes
 
-The accompanying slides are intended to make it easy for the teachers to teach a course on deep learning.  The slides are colour-coded with instructions to teachers (coded "red") or with material to say ("yellow") and are linked to the exercises here.
+The accompanying slides **DeepLearningBasics.pptx** are intended to make it easy for the teachers to teach a course on deep learning.  The slides are colour-coded with instructions to teachers (coded "red") or with material to say ("yellow") and are linked to the exercises here.
 
 The slides can also be used by anyone who's learning the subject by themselves.  They can just go through the slides and the accompanying Pytorch exercises, using the teachers' notes to propel themselves along.
 
