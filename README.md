@@ -12,7 +12,9 @@ If you have git installed, download all the exercises by issuing the following c
 
 If you do not have git installed, just grab the slides **DeepLearningBasics.pptx**.
 
-You will be able to commence learning about deep learning immediately.
+As you go through the slides, you will be asked to do exercises (for example exercise 980).  You can find a corresponding Jupyter Notebook file (named exercise_980.ipynb) which you can run.
+
+If you have not used Jupyter Notebooks before, they are very easy to use.  Just install jupyter and then start it from the directory where the notebook files are by issuing the command:  jupyter notebook
 
 # Motivation
 
