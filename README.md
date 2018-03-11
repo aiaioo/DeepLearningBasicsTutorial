@@ -42,7 +42,7 @@ You don't have to learn the math of two or three learning algorithms for linear 
 
 With deep learning, there's *just* one learning algorithm for pretty much everything.
 
-Moreover, you came use the same learning algorithm and models with relatively minor variations for image processing and speech processing that you use for text processing.
+Moreover, you can use the same learning algorithm and models with relatively minor variations for image processing and speech processing that you use for text processing.
 
 ## 3. No Feature Engineering
 
