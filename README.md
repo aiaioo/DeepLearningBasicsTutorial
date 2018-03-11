@@ -38,13 +38,11 @@ If you want to understand the inner working of the deep learning algorithms, the
 
 Another thing that makes deep learning easy is the fact that you have very few algorithms to learn.
 
-When I was a student, we used to take a six month course in NLP to learn to do text processing using machine learning tools.  You’d have to learn the math of two or three algorithms for linear classification and typically three more for sequential classification.
+You don't have to learn the math of two or three learning algorithms for linear classification and three more for sequential classification.
 
-With deep learning, there's *just* one.
+With deep learning, there's *just* one learning algorithm for pretty much everything.
 
-In my student days again, if you wanted to work with images or speech, few of the algorithms you'd learnt for text processing would help you, and you’d have to learn a whole different subject called computer vision or speech processing which would have been a 6 month course in itself.
-
-With deep learning, you use the same learning algorithm for image processing and speech processing that you use for text processing.
+Moreover, you came use the same learning algorithm and models with relatively minor variations for image processing and speech processing that you use for text processing.
 
 ## 3. No Feature Engineering
 
