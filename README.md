@@ -28,13 +28,13 @@ You are really lucky to be learning (or teaching) machine learning at this time 
 
 The reasons are:
 
-## It Requires Very Little Math
+## 1. Very Little Math
 
 The only math you will need are multiplication, division and matrices.
 
 If you want to understand the inner working of the deep learning algorithms, then you will also need partial differentiation (and the frameworks we use these days do that automatically for you).
 
-## There is Less to Learn
+## 2. Less to Learn
 
 Another thing that makes deep learning easy is the fact that you have very few algorithms to learn.
 
@@ -46,7 +46,7 @@ In my student days again, if you wanted to work with images or speech, few of th
 
 With deep learning, you use the same learning algorithm for image processing and speech processing that you use for text processing.
 
-## There is Little to No Feature Engineering
+## 3. No Feature Engineering
 
 One reason you had so many disciplines was that you had to do something called *feature engineering*.
 
