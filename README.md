@@ -24,30 +24,36 @@ If you have not used Jupyter Notebooks before, they are very easy to use.  Just 
 
 # Motivation
 
-You are really lucky to be learning (or teaching) machine learning at this time because deep learning has made machine learning a very easy subject to learn.
+You are really lucky to be learning (or teaching) machine learning at this time because **deep learning** has made machine learning a **very easy** subject to learn.
+
+The reasons are:
+
+## It Requires Very Little Math
 
 The only math you will need are multiplication, division and matrices.
 
 If you want to understand the inner working of the deep learning algorithms, then you will also need partial differentiation (and the frameworks we use these days do that automatically for you).
 
-That is all the math you need.
+## There is Less to Learn
 
-Another thing that makes deep learning easy is the fact that you have a lot fewer algorithms to learn.
+Another thing that makes deep learning easy is the fact that you have very few algorithms to learn.
 
-When I was a student, we used to take a six month course in NLP to learn to do text processing using machine learning tools.  You’d learn an algorithm or maybe two for training linear classifiers.  Then you’d learn another algorithm for training sequential classifiers, say an HMM (well, actually, you’d learn three algorithms for training HMMs).
+When I was a student, we used to take a six month course in NLP to learn to do text processing using machine learning tools.  You’d have to learn the math of two or three algorithms for linear classification and typically three more for sequential classification.
 
-But if you wanted to do machine learning on say images or speech, none of those algorithms would help you, and you’d have to learn a whole different subject called computer vision or speech processing which would have been a 6 month course in itself.
+With deep learning, there's *just* one.
+
+In my student days again, if you wanted to work with images or speech, few of the algorithms you'd learnt for text processing would help you, and you’d have to learn a whole different subject called computer vision or speech processing which would have been a 6 month course in itself.
 
 With deep learning, you use the same learning algorithm for image processing and speech processing that you use for text processing.
 
-You also use the same core math for sequential models that you use for non-sequential models.
+## There is Little to No Feature Engineering
 
 One reason you had so many disciplines was that you had to do something called *feature engineering*.
 
-For each kind of data you worked with, you had to present the data to the machine learning algorithms differently.  With text, you’d throw in POS tags or parse trees.  With images, you might compute SIFT features to allow you to recognize images even if what they contained was rotated or scaled or skewed.  
+For each kind of data you worked with, you had to present the data to the machine learning algorithms in a different way.  For instance, with text, you’d use POS tags or parse trees.  With images, you might compute SIFT features.  
 
-And to do feature engineering well, you had to develop deep domain expertise – you had to learn linguistics or signal processing.
+In order to do feature engineering well, you'd have to develop deep domain expertise.
 
-With deep learning, you don’t need to do much feature engineering.  The deep learning models do a lot of it automatically for you.
+With deep learning, you don’t need to do much feature engineering.  The deep learning models do it automatically for you.
 
 So, there is really a lot less to learn.
