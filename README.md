@@ -53,5 +53,3 @@ For each kind of data you worked with, you had to present the data to the machin
 In order to do feature engineering well, you'd have to develop deep domain expertise.
 
 With deep learning, you don’t need to do much feature engineering.  The deep learning models do it automatically for you.
-
-So, there is really a lot less to learn.
