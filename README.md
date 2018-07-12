@@ -40,15 +40,25 @@ This course is organized around a series of Pytorch exercises.  Click on the fil
 
 You'll be able to run the programs in the exercises directly from your browser.
 
-Below is the gist of each exercise:
+# Exercises 1xx
+
+## Understanding Pytorch Tensors
 
 ### Exercise 110
 
 How to create and manipulate tensors using Pytorch and how to visualize a multidimensional space.
 
+# Exercises 2xx
+
+## Layer of Neurons = Affine Transform
+
 ### Exercise 210
 
 Building a simple neural network *layer* (an affine transform) using Pytorch.
+
+# Exercises 3xx
+
+## Understanding Classification
 
 ### Exercise 310
 
@@ -61,6 +71,10 @@ Introducing toy problem 1.
 ### Exercise 380
 
 That was easy?  Try toy problem 2.
+
+# Exercises 4xx
+
+## Understanding Casting Learning as an Optimization Problem
 
 ### Exercise 410
 
@@ -78,6 +92,10 @@ Computing the cross-entropy loss for a batch of data
 
 Computing the logistic loss for a single data point (an alternative to cross-entropy)
 
+# Exercises 5xx
+
+## Understanding Single-Layer Neural Networks
+
 ### Exercise 510
 
 Using the 'loss function' $x^2+3$ to illustrate gradient descent.
@@ -89,6 +107,10 @@ Gradient descent over generated data set for problem 1.
 ### Exercise 550
 
 Gradient descent over generated data set for problem 2.
+
+# Exercises 6xx
+
+## Motivating and Learning about Multi-Layer Neural Networks!
 
 ### Exercise 610
 
@@ -118,7 +140,66 @@ Can you compute the XOR function using a multi-layer neural network with a bias 
 
 Can you improve the XOR function using a multi-layer neural network with a bias term (using a ReLU activation function)?
 
+# Exercises 7xx
+
+## The Back-Propagation Algorithm
+
 ### Exercise 710
 
 Let's start learning about backprop.
 
+### Exercise 720
+
+Backprop computation for a different data point (a different x and y -> input and label).
+
+### Exercise 730
+
+Backprop computation for a batch of data points (a set of x and y -> input and label).
+
+### Exercise 740
+
+Backprop using a single data point for a multilayer neural network.
+
+### Exercise 750
+
+Backprop using a batch of data points for a multilayer neural network.
+
+# Exercises 8xx
+
+## Image Classification and Convolutional Neural Networks
+
+### Exercise 810
+
+Classifying images.  Fetching training data (MNIST).
+
+### Exercise 830
+
+Classification of MNIST images using a single-layer neural network.
+
+### Exercise 850
+
+Classification of MNIST images using a multi-layer neural network.
+
+### Exercise 870
+
+Classification of MNIST images using 7 layers in the multi-layer neural network.
+
+### Exercise 890
+
+Classification of MNIST images using convolutional layers (a rough implementation of LeNet Model 5) in the neural network.
+
+# Exercises 9xx
+
+## Text Processing and Recurrent Neural Networks
+
+### Exercise 910
+
+Creating data for demonstrating sequential classification.
+
+### Exercise 920
+
+Sequential classification using an RNN.
+
+### Exercise 980
+
+A sequence to sequence model.
