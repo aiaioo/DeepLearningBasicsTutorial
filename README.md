@@ -12,7 +12,7 @@ If you have git installed, download all the exercises by issuing the following c
 
 *git clone https://github.com/aiaioo/DeepLearningBasicsTutorial/*
 
-If you do not have git installed, just download everything.
+If you do not have git installed, just download everything as a zip file using the "Clone or Download" link.
 
 # Installing Jupyter
 
