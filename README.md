@@ -1,10 +1,10 @@
-# Deep Learning Basics
+# Deep Learning Basics Using Pytorch
 
-I assume that you, like me, don't enjoy having to stare at equations on a blackboard, and would rather be working through toy exercises and doing experiments that help you develop an understanding of the subject.
+If you, like me, learn by doing, this is a course that you might like.  This is a course on deep learning that invites you to experiment on a series of toy data sets (and in the process learn the subject).  Beginners may continue down the rabbit hole; all others may proceed to arxiv.
 
 # Teachers' Tips and Notes
 
-The accompanying slides **DeepLearningBasics.pptx** are for teachers who intend to teach a course on deep learning.  The slides are colour-coded with instructions to teachers (coded "red") or with things to say ("yellow").
+The accompanying slides **DeepLearningBasics.pptx** are for teachers who intend to teach a course on deep learning.  The slides are colour-coded as instructions to teachers ("red"), with narratives to follow ("yellow") and slides to show ("that dark bluish colour").
 
 # Getting the Lessons
 
