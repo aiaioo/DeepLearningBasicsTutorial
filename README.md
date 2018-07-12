@@ -1,64 +1,44 @@
 # Deep Learning Basics
 
-I assume that you, like me, don't enjoy having to stare at equations on a blackboard, and would rather be working through exercises that help you understand a subject.
-
-These exercises use toy problems to walk you through the basics of deep learning.  Hopefully, you will find it satisfying to learn the subject by doing experiments and observing how various algorithms fare on the toy problems.
+I assume that you, like me, don't enjoy having to stare at equations on a blackboard, and would rather be working through toy exercises and doing experiments that help you develop an understanding of the subject.
 
 # Teachers' Tips and Notes
 
-The accompanying slides **DeepLearningBasics.pptx** are intended to make it easy for the teachers to teach a course on deep learning.  The slides are colour-coded with instructions to teachers (coded "red") or with material to say ("yellow") and are linked to the exercises here.
+The accompanying slides **DeepLearningBasics.pptx** are for teachers who intend to teach a course on deep learning.  The slides are colour-coded with instructions to teachers (coded "red") or with things to say ("yellow").
 
-The slides can also be used by anyone who's learning the subject by themselves.  They can just go through the slides and the accompanying Pytorch exercises, using the teachers' notes to propel themselves along.
-
-# Getting Started
+# Getting the Lessons
 
 If you have git installed, download all the exercises by issuing the following command:
 
 *git clone https://github.com/aiaioo/DeepLearningBasicsTutorial/*
 
-If you do not have git installed, just grab the slides **DeepLearningBasics.pptx**.
+If you do not have git installed, just download everything.
 
-As you go through the slides, you will be asked to do exercises (for example exercise 980).  You can find a corresponding Jupyter Notebook file (named exercise_980.ipynb) which you can run.
+# Installing Jupyter
 
-If you have not used Jupyter Notebooks before, they are very easy to use.  Just install jupyter and then start it from the directory where the notebook files are by issuing the command:  jupyter notebook
+[Install jupyter.](http://jupyter.org/install)
 
-# Motivation
+Start the notebook server from the directory where you downloaded the lessons by issuing the command:
 
-You are really lucky to be learning (or teaching) machine learning at this time because **deep learning** has made machine learning a **very easy** subject to learn.
+*jupyter notebook*
 
-The reasons are:
+These lessons will open up in your browser!
 
-### 1. Very Simple Math
+# Installing Pytorch
 
-The only math you will need are multiplication and matrices.
+[Install Pytorch.](http://pytorch.org)  Our lessons are based on Pytorch.
 
-If you want to understand the learning algorithms, you will also need partial differentiation, but the frameworks we use these days build the learning algorithm automatically for you.
+# Getting Started
 
-### 2. Less to Learn
+Start with the slides **DeepLearningBasics.pptx**.
 
-With deep learning, there's *just* one learning algorithm for pretty much everything.
-
-You can use the same learning algorithm and models with relatively minor variations for image processing, speech processing and text processing.
-
-You get 3 for the price of 1.
-
-You can also use the same algorithms for sequential classification that you use for linear classification.
-
-So, it's actually 3 * 2 for the price of 1.
-
-### 3. Little to No Feature Engineering
-
-With un-deep machine learning, you had to do something called *feature engineering*.
-
-For each kind of data you worked with, you had to present the data to the machine learning algorithm in a different way.
-
-For instance, with text, you’d enhance the text with POS tags or parse trees.  With images, you might compute SIFT features.  With speech, you'd compute Cepstral coefficients.  You'd bring a lot of domain expertise to each domain of application.
-
-With deep learning, you don’t need to do much feature engineering.  The deep learning models do it automatically for you.
+As you go through the slides, do the exercises in the Jupyter Notebook files (.ipynb).
 
 # The Jupyter Notebook Exercises
 
-This course is organized around a series of Pytorch exercises.  Click on the files ending in .ipynb and they'll open up in your browser.  If you've installed Jupyter Notebook and cloned this Git repository, you can click on each exercise and it will open up in your browser.  You'll be able to run the programs in the exercises directly from your browser (provided you have Pytorch installed).
+This course is organized around a series of Pytorch exercises.  Click on the files ending in .ipynb and they'll open up in your browser.
+
+You'll be able to run the programs in the exercises directly from your browser.
 
 Below is the gist of each exercise:
 
